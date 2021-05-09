@@ -563,15 +563,15 @@ footer span a:hover {
 }
 
 .ico-circle {
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
-    line-height: 1.55;
-    margin: 0 auto;
-    text-align: center;
-    display: block;
-    color: #055e05;
-  }
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  line-height: 1.55;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  color: #055e05;
+}
 
 .socials ul li {
   display: inline-block;
@@ -593,8 +593,6 @@ footer span a:hover {
   box-shadow: 0 0 0 3px #79e79e;
   transition: all 500ms ease;
 }
-
-
 
 /* responsive media query start */
 @media (max-width: 1104px) {
