@@ -368,13 +368,13 @@ section .title::after {
   background: rgb(3, 124, 19);
 }
 .skills-content .right .Python::before {
-  width: 90%;
+  width: 60%;
 }
 .skills-content .right .JavaScript::before {
   width: 80%;
 }
 .skills-content .right .SQL::before {
-  width: 70%;
+  width: 50%;
 }
 .skills-content .right .PS::before {
   width: 60%;
